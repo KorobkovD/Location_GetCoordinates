@@ -1,0 +1,13 @@
+<root>
+    <item name='android.content.SharedPreferences'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.content.SharedPreferences android.content.SharedPreferences.Editor edit()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.content.SharedPreferences boolean contains(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val val="&quot;null -&gt; false&quot;"/>
+        </annotation>
+    </item>
+</root>
